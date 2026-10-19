@@ -1,0 +1,16 @@
+\nCampaign metrics:\n CampaignID Channel  CTR_pct  ConversionRate_pct  CostPerConversion
+       C01  Search     6.67               15.00             150.00
+       C02  Social     6.33               10.53             140.00
+       C03   Email    13.00               23.08              60.00
+       C04  Search     7.20               12.50             177.78
+       C05  Social     6.11               11.82             161.54
+       C06   Email    13.33               28.33              64.71
+       C07  Search     6.43               17.78             143.75
+       C08  Social     5.56               12.00             133.33
+       C09   Email    11.67               27.14              68.42
+       C10  Search     6.56               20.00             133.33
+\nAverage metrics by channel:\n          CTR_pct  ConversionRate_pct  CostPerConversion
+Channel                                                
+Email      12.67               26.18              64.38
+Search      6.71               16.32             151.22
+Social      6.00               11.45             144.96
